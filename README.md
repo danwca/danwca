@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daniel @danwca
-- 👀 I’m interested in Android, C, Java, IoT, php
+- 👀 I’m interested in Android, C, Java, IoT, php, control system, 
 - 🌱 I’m currently working on IoT & shellext for markdown 
-- 💞️ I’m looking to collaborate on ESP8266, Android, IOS, php,   
+- 💞️ I’m looking to collaborate on ESP8266, Android, IOS, php, electric board design
 - 📫 How to reach me ... danw.ca#gmail.com
 
 <!---
