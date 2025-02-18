@@ -1,11 +1,9 @@
 - 👋 Hi, I’m Daniel @danwca
-- 👀 I’m interested in Android, C, Java, IoT, php, control system, 
-- 🌱 I’m currently working on IoT & shellext for markdown 
+- 👀 I’m working on Android, C#, Java, IoT, php, control system, management, AI  
+- 🌱 current projects: IoT, nppWebView, control system design, ERP, the personal management system,  
 - 💞️ I’m looking to collaborate on ESP8266, Android, IOS, php, electric board design
 - 📫 How to reach me ... danw.ca#gmail.com
 
-
-go to the [second page](second.md)
 
 <!---
 danwca/danwca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
